@@ -11,7 +11,7 @@
 <!-- Profile Views & Social Badges -->
 <p>
 <a href="https://github.com/shivenpatro"><img src="https://komarev.com/ghpvc/?username=shivenpatro&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile Views"/></a>
-<a href="https://github.com/shivenpatro?tab=followers"><img src="https://img.shields.io/github/followers/shivenpatro?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E40C9" alt="Followers"/></a>
+<a href="https://github.com/shivenpatro?tab=followers"><img src="https://img.shields.io/github/followers/shivenpatro?label=Followers&style=for-the-badge&color=6E40C9&labelColor=0D1117" alt="Followers"/></a>
 <a href="https://github.com/shivenpatro?tab=repositories"><img src="https://img.shields.io/badge/Repos-20+-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/></a>
 </p>
 
@@ -179,7 +179,7 @@ fun_facts:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=shivenpatro&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)
+![](https://github-trophies.vercel.app/?username=shivenpatro&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)
 
 </div>
 
