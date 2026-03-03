@@ -10,7 +10,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=shivenpatro&icon=6&color=6" alt="Profile Views"/></a>
+<a href="https://github.com/shivenpatro"><img src="https://komarev.com/ghpvc/?username=shivenpatro&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 <a href="https://github.com/shivenpatro?tab=followers"><img src="https://img.shields.io/github/followers/shivenpatro?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E40C9" alt="Followers"/></a>
 <a href="https://github.com/shivenpatro?tab=repositories"><img src="https://img.shields.io/badge/Repos-20+-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/></a>
 </p>
@@ -67,22 +67,22 @@ fun_facts:
 <div align="center">
 
 <a href="https://github.com/shivenpatro/6G-Zero-Drop-AI-Satellite-Handover">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivenpatro&repo=6G-Zero-Drop-AI-Satellite-Handover&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shivenpatro&repo=6G-Zero-Drop-AI-Satellite-Handover&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shivenpatro/autonomous-vulnerability-scanner">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivenpatro&repo=autonomous-vulnerability-scanner&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shivenpatro&repo=autonomous-vulnerability-scanner&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shivenpatro/IntelliApply">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivenpatro&repo=IntelliApply&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shivenpatro&repo=IntelliApply&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shivenpatro/Hash-Chat">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivenpatro&repo=Hash-Chat&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shivenpatro&repo=Hash-Chat&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shivenpatro/GTAVOpenCV-Control">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivenpatro&repo=GTAVOpenCV-Control&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shivenpatro&repo=GTAVOpenCV-Control&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
 </a>
 <a href="https://github.com/shivenpatro/Portfolio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shivenpatro&repo=Portfolio&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shivenpatro&repo=Portfolio&theme=github_dark&border_color=6E40C9&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117" />
 </a>
 
 </div>
@@ -155,12 +155,12 @@ fun_facts:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivenpatro&theme=github_dark&show_icons=true&hide_border=true&count_private=true&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117&ring_color=6E40C9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=shivenpatro&theme=github_dark&show_icons=true&hide_border=true&count_private=true&title_color=6E40C9&icon_color=6E40C9&text_color=8B949E&bg_color=0D1117&ring_color=6E40C9" alt="GitHub Stats"/>
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=shivenpatro&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivenpatro&theme=github_dark&layout=compact&hide_border=true&title_color=6E40C9&text_color=8B949E&bg_color=0D1117&langs_count=10" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivenpatro&theme=github_dark&layout=compact&hide_border=true&title_color=6E40C9&text_color=8B949E&bg_color=0D1117&langs_count=10" alt="Top Languages"/>
 
 </div>
 
