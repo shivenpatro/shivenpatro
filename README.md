@@ -26,7 +26,7 @@
 name: Shiven Patro
 located_in: India
 education: B.Tech CSE (Undergrad)
-current_focus: ["Full-Stack Development", "Machine Learning", "Cybersecurity"]
+current_focus: ["Full-Stack Development", "Machine Learning", "Cybersecurity", "Blockchain", "DevOps"]
 
 fields_of_interest:
   - "Artificial Intelligence & Machine Learning"
